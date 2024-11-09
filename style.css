@@ -53,3 +53,9 @@ header {
 main {
     margin-left:10px;
 }
+.gameImage {
+    width:150px;
+    height:150px;
+    border-radius:20px;
+    border:none;
+}
