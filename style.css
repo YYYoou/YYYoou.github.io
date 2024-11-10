@@ -51,7 +51,8 @@ header {
     margin-bottom:10px;
 }
 main {
-    margin-left:10px;
+    margin-left:10%;
+    margin-right:10%;
 }
 .gameImage {
     width:150px;
