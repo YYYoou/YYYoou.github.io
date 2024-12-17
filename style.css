@@ -35,6 +35,13 @@ button {
 button:hover {
     background-color:#ffffff10;
 }
+footer {
+    background-color:#112233;
+    bottom:0;
+    left:0;
+    width:100%;
+    text-align:center;
+}
 h1,h2,h3 {
     font-family:"BIZ UPDGothic";
     font-weight:normal;
